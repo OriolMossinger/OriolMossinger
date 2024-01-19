@@ -12,7 +12,7 @@ Hello, I'm Oriol Mössinger. An economist with over 5 years of experience in fin
 
 ### Contact
 - [LinkedIn](https://www.linkedin.com/in/oriolmossingersanahuja/)
-- [Email](omossinger@gmail.com)
+- [Email](mailto:omossinger@gmail.com)
 
 ---
 
