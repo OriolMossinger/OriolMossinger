@@ -1,16 +1,19 @@
-### Hi there 👋
+# Oriol Mössinger
 
-<!--
-**OriolMossinger/OriolMossinger** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Data Scientist
 
-Here are some ideas to get you started:
+### About Me
+Hello, I'm Oriol Mössinger. An economist with over 5 years of experience in financial analysis, I am currently pursuing a master's degree in Data Science. I specialize in using advanced analytics and machine learning to enhance decision-making and outcomes. My passion lies in uncovering patterns and providing valuable insights from complex data.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Technical Skills
+- **Programming Languages**: Python, R, SQL, JavaScript.
+- **Python Libraries**: Numpy, Pandas, Matplotlib, Seaborn, Scikit-learn, TensorFlow, OpenAI Gym.
+- **Data Analysis and Machine Learning**: Extensive experience in data manipulation, visualization, and predictive model development.
+
+### Contact
+- [LinkedIn](https://www.linkedin.com/in/oriolmossingersanahuja/)
+- [Email](omossinger@gmail.com)
+
+---
+
+I am always open to new opportunities. Feel free to reach out if you have interesting ideas or projects you believe we can collaborate on.
