@@ -3,7 +3,7 @@
 ## Data Scientist
 
 ### About Me
-Hello, I'm Oriol Mössinger. Almost completed my master's degree in Data Science, my background in economics has provided me with a strong foundation for financial analysis. Over the past 5 years, I have honed my skills in advanced analytics, machine learning, and SQL, enhancing decision-making and outcomes. My passion for uncovering patterns and delivering valuable insights from complex data is complemented by my proficiency in Tableau, enabling me to craft compelling data visualizations and dashboards.
+Hello, I'm Oriol Mössinger. After completing my master's degree in Data Science, my background in economics has provided me with a strong foundation for financial analysis. Over the past 5 years, I have honed my skills in advanced analytics, machine learning, and SQL, enhancing decision-making and outcomes. My passion for uncovering patterns and delivering valuable insights from complex data is complemented by my proficiency in Tableau, enabling me to craft compelling data visualizations and dashboards.
 
 ### Technical Skills
 - **Programming Languages**: Python, R, SQL, JavaScript.
